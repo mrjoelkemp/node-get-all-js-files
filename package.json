@@ -1,6 +1,6 @@
 {
   "name": "get-all-js-files",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get all JS files within a directory",
   "main": "index.js",
   "directories": {
