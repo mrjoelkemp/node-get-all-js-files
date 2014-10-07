@@ -1,0 +1,26 @@
+{
+  "name": "get-all-js-files",
+  "version": "0.0.0",
+  "description": "Get all JS files within a directory",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrjoelkemp/node-get-all-js-files.git"
+  },
+  "author": "Joel Kemp <joel@mrjoelkemp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjoelkemp/node-get-all-js-files/issues"
+  },
+  "homepage": "https://github.com/mrjoelkemp/node-get-all-js-files",
+  "dependencies": {
+    "mocha": "^1.21.4",
+    "node-dir": "^0.1.6"
+  }
+}
