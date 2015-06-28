@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/mrjoelkemp/node-get-all-js-files",
   "dependencies": {
-    "mocha": "^1.21.4",
     "node-dir": "^0.1.6"
   },
   "devDependencies": {
+    "mocha": "^1.21.4",
     "sinon": "^1.10.3"
   }
 }
